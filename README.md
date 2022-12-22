@@ -20,7 +20,7 @@ An out-of-box human parsing representation extractor.
 
 Our solution ranks 1st for all human parsing tracks (including single, multiple and video) in the third LIP challenge!
 
-![lip-visualization](./demo/pic1.jpg) 
+![lip-visualization](./demo/pic.jpg) 
 
 Features:
 - [x] Out-of-box human parsing extractor for other downstream applications.
