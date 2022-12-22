@@ -7,6 +7,9 @@ schp를 활용해서 커스텀 데이터에 맞게 fine-tuning
 -evaluate
 -miou
 각 항목에 맞춰 코드 수정하였음
+
+@@@결과@@@
+![lip-visualization](./demo/pic.jpg) 
 ```
 ####################################################################
 
@@ -20,7 +23,6 @@ An out-of-box human parsing representation extractor.
 
 Our solution ranks 1st for all human parsing tracks (including single, multiple and video) in the third LIP challenge!
 
-![lip-visualization](./demo/pic.jpg) 
 
 Features:
 - [x] Out-of-box human parsing extractor for other downstream applications.
